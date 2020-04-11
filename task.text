@@ -1,0 +1,4 @@
+1) Declarar todos los tipos de datos y cambiar de string-number, number-string, string-boolean, boolean-string.
+2) Evaluar los tipos de datos y retornar el booleano string, number, etc..
+3) Crear dos palabras y manipularlo formando palabras entre ellos. [hola], [como estas,josé, estas].
+4) Retornar la longitud y el tipo de dato de los siguientes elementos: Hola, 90, "780", true, "true", undefiend, null
