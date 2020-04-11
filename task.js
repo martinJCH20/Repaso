@@ -10,6 +10,9 @@ console.log("Ejercicio 1 (booleano a string ): ", typeBool.toString());
 
 //Ejercicio 2
 
+let value = String(10);
+
+console.log('Ejercicio 2 Tipo de dato: ', typeof value, ', String: ', value.toString(), ', Number: ', Number(value), ', Booleano: ', Boolean(value) );
 
 //Ejercicio 3
 const texto1 = "Retomando el curso";
